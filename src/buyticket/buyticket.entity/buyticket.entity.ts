@@ -16,4 +16,6 @@ export class BuyticketEntity {
     @Column()
     date: Date;
 
+    
+
 }
